@@ -38,7 +38,7 @@ Now your project is ready to use this library
 
 ## Documentation and Demo
 [Visit the project page](http://dhtml.github.io/phpsocket.io/) for documentation and usage. 
-You can download a demo apk here here [chat-sample](http://dhtml.github.io/phpsocket.io/bin/chat-sample.apk).
+You can download a demo  by clicking [chat-sample](http://dhtml.github.io/phpsocket.io/bin/chat-sample.apk).
 
 Note: this demo apk uses the default server of the library that was demonstrated on the [main project page](https://github.com/dhtml/phpsocket.io/).
 This means that this demo can chat and receive from anyone using the [basic example](http://dhtml.github.io/phpsocket.io/examples/basic/index.html) described on the main project page.
